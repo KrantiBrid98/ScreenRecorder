@@ -1,0 +1,12 @@
+
+{
+    "name": "Screenrecorder",
+    "version": "1.0",
+    "description": "Records your screen!",
+    "permissions": ["activeTab"],
+    "browser_action": {
+      "default_popup": "index.html"
+      
+    },
+    "manifest_version": 2
+  }
